@@ -1,0 +1,20 @@
+.Style1{font-family: 'Arial',sans-serif;
+font-size: 48px; 
+font-weight:700; 
+margin:0;
+color: #FEFFFF;
+letter-spacing: 0.04em; 
+word-wrap: break-word;}
+.Style2{font-family: 'Arial',sans-serif;
+font-size: 23px; 
+font-weight:700; 
+margin:0;
+color: #FEFFFF;
+letter-spacing: 0.04em; 
+word-wrap: break-word;}
+body{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing: grayscale}
+a.outerlink{text-decoration:none}
+.animhidden{opacity: 0}
+.animvisible{opacity: 1}
+.animhidden{opacity: 0}
+.animvisible{opacity: 1}
