@@ -1,0 +1,9 @@
+.Style1{font-family: 'Arial',sans-serif;
+font-size: 35px; 
+font-weight:700; 
+margin:0;
+color: #FEFFFF;
+word-wrap: break-word;}
+body{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing: grayscale}
+.animhidden{opacity: 0}
+.animvisible{opacity: 1}
