@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:1AAC5A52-55BF-423F-BB97-B296FC878D05</id>
+ <title>Page list Atom feed</title>
+ <updated>2012-04-25T22:22:21-04:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:8FB62BB1-DF99-4902-A226-F1C71F51E463</id>
+  <title>senegal</title>
+  <title xmlns="urn:iweb:">senegal</title>
+  <in-navbar xmlns="urn:iweb:">8FB62BB1-DF99-4902-A226-F1C71F51E463</in-navbar>
+  <link rel="alternate" href="senegal/senegal.html"/>
+  <updated>2012-04-25T22:22:21.001-04:00</updated>
+  <content>senegal</content>
+ </entry>
+</feed>
