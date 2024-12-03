@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:6C4C8FB6-A5C8-4A0C-B1FE-9760420C7567</id>
+ <title>Page list Atom feed</title>
+ <updated>2012-04-25T23:44:33-04:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:ED14D241-DC79-427B-BE6F-EBFEB3C86AED</id>
+  <title>Gambia</title>
+  <title xmlns="urn:iweb:">Gambia</title>
+  <in-navbar xmlns="urn:iweb:">ED14D241-DC79-427B-BE6F-EBFEB3C86AED</in-navbar>
+  <link rel="alternate" href="Gambia.html"/>
+  <updated>2012-04-25T23:44:33.001-04:00</updated>
+  <content>Gambia</content>
+ </entry>
+</feed>
