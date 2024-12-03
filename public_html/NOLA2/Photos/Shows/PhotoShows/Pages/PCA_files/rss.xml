@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Philadelphia Corporation for Aging
+Group Shows</title>
+    <link>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/PCA.html</link>
+    <description>Philadelphia Corporation for Aging
+Group Shows</description>
+    <item>
+      <title>2011</title>
+      <link>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/PCA.html#0</link>
+      <guid isPermaLink="false">4ca065ff-1ef8-4a77-af31-ebb5dea8bc2b</guid>
+      <enclosure url="http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/PCA_files/Media/monks/monks.jpg" length="565722" type="image/jpeg"/>
+      <iphoto:thumbnail>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/PCA_files/Media/monks/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/PCA_files/Media/monks/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/PCA_files/Media/monks/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_248_32&quot;&gt;&lt;div class=&quot;style_1&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;2011&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>2012</title>
+      <link>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/PCA.html#1</link>
+      <guid isPermaLink="false">42a05170-0290-43ac-addb-64d1b6f731b5</guid>
+      <enclosure url="http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/PCA_files/Media/phila_skyline/phila_skyline.jpg" length="347509" type="image/jpeg"/>
+      <iphoto:thumbnail>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/PCA_files/Media/phila_skyline/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/PCA_files/Media/phila_skyline/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/PCA_files/Media/phila_skyline/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_248_32&quot;&gt;&lt;div class=&quot;style_1&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;2012&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>2013</title>
+      <link>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/PCA.html#2</link>
+      <guid isPermaLink="false">21930374-ba28-486d-97d1-23552cb2eed4</guid>
+      <enclosure url="http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/PCA_files/Media/0474a/0474a.jpg" length="8377951" type="image/jpeg"/>
+      <iphoto:thumbnail>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/PCA_files/Media/0474a/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/PCA_files/Media/0474a/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/PCA_files/Media/0474a/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_248_32&quot;&gt;&lt;div class=&quot;style_1&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;2013&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>2014</title>
+      <link>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/PCA.html#3</link>
+      <guid isPermaLink="false">bda48fd3-e31f-4cfa-8ed8-796afb6bf3dc</guid>
+      <enclosure url="http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/PCA_files/Media/2568/2568.jpg" length="476294" type="image/jpeg"/>
+      <iphoto:thumbnail>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/PCA_files/Media/2568/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/PCA_files/Media/2568/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/PCA_files/Media/2568/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_248_32&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;2014&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+  </channel>
+</rss>
