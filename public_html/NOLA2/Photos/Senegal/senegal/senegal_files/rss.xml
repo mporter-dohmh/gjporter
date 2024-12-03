@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Senegal</title>
+    <link>http://home.comcast.net/%7Egjporter/Senegal/senegal/senegal.html</link>
+    <description>Senegal</description>
+    <item>
+      <title>Ndangane Joal</title>
+      <link>http://home.comcast.net/%7Egjporter/Senegal/senegal/Pages/Ndangane_Joal.html</link>
+      <guid isPermaLink="false">601a1ec6-97c8-40a7-9c05-a37046fcec4d</guid>
+    </item>
+    <item>
+      <title>Casamance</title>
+      <link>http://home.comcast.net/%7Egjporter/Senegal/senegal/Pages/Casamance.html</link>
+      <guid isPermaLink="false">6e4e49bc-8fd1-479b-9fc8-11f515113b0a</guid>
+    </item>
+    <item>
+      <title>Ziguinchor - House of the Artist</title>
+      <link>http://home.comcast.net/%7Egjporter/Senegal/senegal/Pages/Ziguinchor_-_House_of_the_Artist.html</link>
+      <guid isPermaLink="false">528214df-ffbe-448e-b352-302fd47fae89</guid>
+    </item>
+    <item>
+      <title>Goree Dakar</title>
+      <link>http://home.comcast.net/%7Egjporter/Senegal/senegal/Pages/Goree_Dakar.html</link>
+      <guid isPermaLink="false">b1688ea2-47a0-40c9-a1fc-ea813e731920</guid>
+    </item>
+  </channel>
+</rss>
