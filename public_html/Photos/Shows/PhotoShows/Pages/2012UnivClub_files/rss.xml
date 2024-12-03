@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>2012 University Club Group Show</title>
+    <link>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/2012UnivClub.html</link>
+    <description>2012 University Club Group Show</description>
+    <item>
+      <link>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/2012UnivClub.html#0</link>
+      <guid isPermaLink="false">611dc412-fea9-49c6-b460-91be987535f0</guid>
+      <enclosure url="http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/2012UnivClub_files/Media/5556/5556.jpg" length="747634" type="image/jpeg"/>
+      <iphoto:thumbnail>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/2012UnivClub_files/Media/5556/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/2012UnivClub_files/Media/5556/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/2012UnivClub_files/Media/5556/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_0_0&quot;&gt;&lt;div class=&quot;style_1&quot;/&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <link>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/2012UnivClub.html#1</link>
+      <guid isPermaLink="false">a3796b89-d02f-4604-b61f-bb3100301f97</guid>
+      <enclosure url="http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/2012UnivClub_files/Media/6945/6945.jpg" length="1255470" type="image/jpeg"/>
+      <iphoto:thumbnail>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/2012UnivClub_files/Media/6945/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/2012UnivClub_files/Media/6945/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/2012UnivClub_files/Media/6945/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_0_0&quot;&gt;&lt;div class=&quot;style_1&quot;/&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+  </channel>
+</rss>

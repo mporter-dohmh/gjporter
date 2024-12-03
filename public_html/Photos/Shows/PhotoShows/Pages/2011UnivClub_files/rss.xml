@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>2011 University Club Group Shows</title>
+    <link>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/2011UnivClub.html</link>
+    <description>2011 University Club Group Shows</description>
+    <item>
+      <link>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/2011UnivClub.html#0</link>
+      <guid isPermaLink="false">5f04e5b0-b3bc-437a-a3bd-1ea30e97cd73</guid>
+      <enclosure url="http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/2011UnivClub_files/Media/arlene/arlene.jpg" length="823429" type="image/jpeg"/>
+      <iphoto:thumbnail>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/2011UnivClub_files/Media/arlene/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/2011UnivClub_files/Media/arlene/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/2011UnivClub_files/Media/arlene/mip.jpg</iweb:mip-thumbnail>
+    </item>
+    <item>
+      <link>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/2011UnivClub.html#1</link>
+      <guid isPermaLink="false">dbd5b6d7-8ff2-48e9-be29-88ba372fcf71</guid>
+      <enclosure url="http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/2011UnivClub_files/Media/flowers/flowers.jpg" length="1392800" type="image/jpeg"/>
+      <iphoto:thumbnail>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/2011UnivClub_files/Media/flowers/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/2011UnivClub_files/Media/flowers/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/2011UnivClub_files/Media/flowers/mip.jpg</iweb:mip-thumbnail>
+    </item>
+    <item>
+      <link>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/2011UnivClub.html#2</link>
+      <guid isPermaLink="false">aea79a22-27f6-478e-8e90-9247ab49b990</guid>
+      <enclosure url="http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/2011UnivClub_files/Media/gp_abc/gp_abc.jpg" length="1160242" type="image/jpeg"/>
+      <iphoto:thumbnail>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/2011UnivClub_files/Media/gp_abc/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/2011UnivClub_files/Media/gp_abc/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/2011UnivClub_files/Media/gp_abc/mip.jpg</iweb:mip-thumbnail>
+    </item>
+  </channel>
+</rss>
