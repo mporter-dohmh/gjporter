@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:6BAA9DF5-5926-4AD6-943A-6D6B1D92B2C8</id>
+ <title>Page list Atom feed</title>
+ <updated>2012-04-21T11:14:34-04:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:8A55670D-C618-4076-BE34-C0A059C23293</id>
+  <title>Cuba2003</title>
+  <title xmlns="urn:iweb:">Cuba2003</title>
+  <in-navbar xmlns="urn:iweb:">8A55670D-C618-4076-BE34-C0A059C23293</in-navbar>
+  <link rel="alternate" href="Cuba2003.html"/>
+  <updated>2012-04-21T11:14:34.001-04:00</updated>
+  <content>Cuba2003</content>
+ </entry>
+</feed>
