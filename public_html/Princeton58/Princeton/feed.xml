@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:2EA55642-5C86-4F8F-9D0B-4D12F569003A</id>
+ <title>Page list Atom feed</title>
+ <updated>2014-08-31T13:43:35-04:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:B6683C63-3A8A-4C73-AB65-1EB7A31E382C</id>
+  <title>Princeton 45th Reunion</title>
+  <title xmlns="urn:iweb:">Princeton 45th Reunion</title>
+  <in-navbar xmlns="urn:iweb:">B6683C63-3A8A-4C73-AB65-1EB7A31E382C</in-navbar>
+  <link rel="alternate" href="Princeton_45th_Reunion.html"/>
+  <updated>2014-08-31T13:43:35.001-04:00</updated>
+  <content>Princeton 45th Reunion</content>
+ </entry>
+</feed>
