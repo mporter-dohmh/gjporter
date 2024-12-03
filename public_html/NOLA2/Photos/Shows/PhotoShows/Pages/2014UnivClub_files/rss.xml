@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>2014 University Club Member Show</title>
+    <link>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/2014UnivClub.html</link>
+    <description>2014 University Club Member Show</description>
+    <item>
+      <title>2013 March on Washington</title>
+      <link>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/2014UnivClub.html#0</link>
+      <guid isPermaLink="false">a1aeb9d0-b2ca-4c90-8828-3e947470b3e3</guid>
+      <enclosure url="http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/2014UnivClub_files/Media/2594/2594.jpg" length="94567" type="image/jpeg"/>
+      <iphoto:thumbnail>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/2014UnivClub_files/Media/2594/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/2014UnivClub_files/Media/2594/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/2014UnivClub_files/Media/2594/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_196_32&quot;&gt;&lt;div class=&quot;style_1&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;2013 March on Washington&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>spray can nozzles</title>
+      <link>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/2014UnivClub.html#1</link>
+      <guid isPermaLink="false">aaabb169-ca3a-4a5e-a851-18c44f89acac</guid>
+      <enclosure url="http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/2014UnivClub_files/Media/nozzles/nozzles.jpg" length="184109" type="image/jpeg"/>
+      <iphoto:thumbnail>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/2014UnivClub_files/Media/nozzles/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/2014UnivClub_files/Media/nozzles/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/2014UnivClub_files/Media/nozzles/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_196_32&quot;&gt;&lt;div class=&quot;style_1&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;spray can nozzles&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>leaf</title>
+      <link>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/2014UnivClub.html#2</link>
+      <guid isPermaLink="false">ad530ad4-5514-47f7-a657-bc847f584130</guid>
+      <enclosure url="http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/2014UnivClub_files/Media/leaf/leaf.jpg" length="131817" type="image/jpeg"/>
+      <iphoto:thumbnail>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/2014UnivClub_files/Media/leaf/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/2014UnivClub_files/Media/leaf/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/2014UnivClub_files/Media/leaf/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_196_32&quot;&gt;&lt;div class=&quot;style_1&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;leaf&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+  </channel>
+</rss>
