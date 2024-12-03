@@ -1,0 +1,347 @@
+Command 'git add large-files\0929.jpg' returned non-zero exit status 1.
+Command 'git add large-files\0953a.jpg' returned non-zero exit status 1.
+Command 'git add large-files\0954.jpg' returned non-zero exit status 1.
+Command 'git add large-files\0989.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1002.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1020_g1i0.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1020_g1it0.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1025_g1i1.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1025_g1it1.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1026_g1i2.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1026_g1it2.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1028_g1i3.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1028_g1it3.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1033_g1i4.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1033_g1it4.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1042.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1042a.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1046.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1046_g1i5.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1046_g1it5.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1055_g1i6.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1055_g1it6.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1056_g1i7.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1056_g1it7.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1063_g1i8.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1063_g1it8.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1065_g1i9.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1065_g1it9.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1067.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1086.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1095.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1097.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1098_g1i10.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1098_g1it10.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1099_g1i11.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1099_g1it11.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1103_g1i12.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1103_g1it12.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1104_g1i13.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1104_g1it13.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1126_g1i14.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1126_g1it14.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1127_g1i15.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1127_g1it15.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1136_g1i16.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1136_g1it16.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1144_g1i17.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1144_g1it17.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1145_g1i18.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1145_g1it18.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1147_g1i19.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1147_g1it19.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1148_g1i20.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1148_g1it20.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1149_g1i21.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1149_g1it21.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1150_g1i22.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1150_g1it22.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1151_g1i23.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1151_g1it23.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1152_g1i24.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1152_g1it24.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1153_g1i25.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1153_g1it25.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1155_g1i26.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1155_g1it26.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1156_g1i27.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1156_g1it27.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1157_g1i28.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1157_g1it28.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1181_g1i29.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1181_g1it29.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1187_g1i30.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1187_g1it30.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1189_g1i31.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1189_g1it31.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1192_g1i32.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1192_g1it32.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1193_g1i33.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1193_g1it33.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1195_g1i34.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1195_g1it34.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1196_g1i35.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1196_g1it35.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1201_g1i36.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1201_g1it36.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1204_g1i37.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1204_g1it37.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1206_g1i38.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1206_g1it38.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1209_g1i39.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1209_g1it39.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1212_g1i40.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1212_g1it40.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1215_g1i41.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1215_g1it41.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1216_g1i42.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1216_g1it42.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1217_g1i43.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1217_g1it43.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1219_g1i44.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1219_g1it44.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1222_g1i45.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1222_g1it45.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1223_g1i46.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1223_g1it46.jpg' returned non-zero exit status 1.
+Command 'git add large-files\1224_g1i47.jpg' returned non-zero exit status 1.
+Command 'git add public_html\50th\data\Rock Around the Clock.mp3' returned non-zero exit status 128.
+Command 'git add public_html\alash at Penn.html' returned non-zero exit status 128.
+Command 'git add public_html\Children\Children - Photographs by Jerry Porter.mp4' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Cambodia-Girl in Print Skirt_g0i5.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Cambodia-Girl in Print Skirt_g0it5.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Cambodia-Girl in Print Skirt_g1i5.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Cambodia-Girl in Print Skirt_g1it5.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Cambodia-Mother and Child_g0i0.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Cambodia-Mother and Child_g0it0.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Cambodia-Mother and Child_g1i0.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Cambodia-Mother and Child_g1it0.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Cambodia-Scarf Sellers_g0i1.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Cambodia-Scarf Sellers_g0it1.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Cambodia-Scarf Sellers_g1i1.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Cambodia-Scarf Sellers_g1it1.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Cambodia-Young Monk_g0i3.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Cambodia-Young Monk_g0it3.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Cambodia-Young Monk_g1i3.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Cambodia-Young Monk_g1it3.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\China-Boy in Stroller_g0i4.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\China-Boy in Stroller_g0it4.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\China-Boy in Stroller_g1i4.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\China-Boy in Stroller_g1it4.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Cuba-Four Girls_g0i2.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Cuba-Four Girls_g0it2.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Cuba-Four Girls_g1i2.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Cuba-Four Girls_g1it2.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Cuba-School Girls_g0i6.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Cuba-School Girls_g0it6.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Cuba-School Girls_g1i6.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Cuba-School Girls_g1it6.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Cuba-Three Boys_g0i8.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Cuba-Three Boys_g0it8.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Cuba-Three Boys_g1i8.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Cuba-Three Boys_g1it8.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Egypt-Boy in Turban_g0i9.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Egypt-Boy in Turban_g0it9.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Egypt-Boy in Turban_g1i9.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Egypt-Boy in Turban_g1it9.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Guatemala-Girl in Hat_g0i7.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Guatemala-Girl in Hat_g0it7.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Guatemala-Girl in Hat_g1i7.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Guatemala-Girl in Hat_g1it7.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Guatemala-Two Girls_g0i19.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Guatemala-Two Girls_g0it19.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Guatemala-Two Girls_g1i19.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Guatemala-Two Girls_g1it19.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Hong Kong-Mickey_g0i15.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Hong Kong-Mickey_g0it15.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Hong Kong-Mickey_g1i15.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Hong Kong-Mickey_g1it15.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Kyrgyzstan-Girl in Blue_g0i11.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Kyrgyzstan-Girl in Blue_g0it11.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Kyrgyzstan-Girl in Blue_g1i11.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Kyrgyzstan-Girl in Blue_g1it11.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Kyrgyzstan-Two Children on Horseback_g0i20.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Kyrgyzstan-Two Children on Horseback_g0it20.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Kyrgyzstan-Two Children on Horseback_g1i20.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Kyrgyzstan-Two Children on Horseback_g1it20.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Laos-Girl and Puppy_g0i13.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Laos-Girl and Puppy_g0it13.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Laos-Girl and Puppy_g1i13.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Laos-Girl and Puppy_g1it13.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Laos-Girl in Blue_g0i16.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Laos-Girl in Blue_g0it16.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Laos-Girl in Blue_g1i16.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Laos-Girl in Blue_g1it16.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Laos-Girl in Doorway_g0i14.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Laos-Girl in Doorway_g0it14.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Laos-Girl in Doorway_g1i14.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Laos-Girl in Doorway_g1it14.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Laos-Mother and Child_g0i17.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Laos-Mother and Child_g0it17.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Laos-Mother and Child_g1i17.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Laos-Mother and Child_g1it17.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Laos-Three Boys_g0i18.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Laos-Three Boys_g0it18.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Laos-Three Boys_g1i18.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Laos-Three Boys_g1it18.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Laos-Two Girls_g0i21.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Laos-Two Girls_g0it21.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Laos-Two Girls_g1i21.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Laos-Two Girls_g1it21.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Mali-Girl in Orange_g0i22.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Mali-Girl in Orange_g0it22.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Mali-Girl in Orange_g1i22.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Mali-Girl in Orange_g1it22.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Mali-Mother and Child_g0i23.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Mali-Mother and Child_g0it23.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Mali-Mother and Child_g1i23.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Mali-Mother and Child_g1it23.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Mali-Two Children_g0i25.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Mali-Two Children_g0it25.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Mali-Two Children_g1i25.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Mali-Two Children_g1it25.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Mongolia-Girl on Horse_g0i24.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Mongolia-Girl on Horse_g0it24.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Mongolia-Girl on Horse_g1i24.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Mongolia-Girl on Horse_g1it24.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Mongolia-Girll in Traditional Vest_g0i26.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Mongolia-Girll in Traditional Vest_g0it26.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Mongolia-Girll in Traditional Vest_g1i26.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Mongolia-Girll in Traditional Vest_g1it26.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Mongolia-Mother and Child_g0i27.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Mongolia-Mother and Child_g0it27.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Mongolia-Mother and Child_g1i27.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Mongolia-Mother and Child_g1it27.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Mongolia-Prayer Wheels_g0i28.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Mongolia-Prayer Wheels_g0it28.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Mongolia-Prayer Wheels_g1i28.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Mongolia-Prayer Wheels_g1it28.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Mongolia-Tuvan Children_g0i29.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Mongolia-Tuvan Children_g0it29.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Mongolia-Tuvan Children_g1i29.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Mongolia-Tuvan Children_g1it29.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Mongolia-Tuvan Girl_g0i30.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Mongolia-Tuvan Girl_g0it30.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Mongolia-Tuvan Girl_g1i30.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Mongolia-Tuvan Girl_g1it30.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Mongolia-Two Young Monks_g0i31.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Mongolia-Two Young Monks_g0it31.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Mongolia-Two Young Monks_g1i31.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Mongolia-Two Young Monks_g1it31.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Morocco-Boy and Girl_g0i33.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Morocco-Boy and Girl_g0it33.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Morocco-Boy and Girl_g1i33.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Morocco-Boy and Girl_g1it33.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Morocco-Curly Headed Girl_g0i34.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Morocco-Curly Headed Girl_g0it34.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Morocco-Curly Headed Girl_g1i34.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Morocco-Curly Headed Girl_g1it34.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Morocco-Girl in Blue_g0i35.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Morocco-Girl in Blue_g0it35.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Morocco-Girl in Blue_g1i35.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Morocco-Girl in Blue_g1it35.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Morocco-Girl in Green Headband_g0i36.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Morocco-Girl in Green Headband_g0it36.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Morocco-Girl in Green Headband_g1i36.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Morocco-Girl in Green Headband_g1it36.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Morocco_Boy with Bread_g0i32.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Morocco_Boy with Bread_g0it32.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Morocco_Boy with Bread_g1i32.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Morocco_Boy with Bread_g1it32.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Nepal-Girl and Baby_g0i38.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Nepal-Girl and Baby_g0it38.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Nepal-Girl and Baby_g1i38.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Nepal-Girl and Baby_g1it38.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Nepal-Mother and Baby_g0i39.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Nepal-Mother and Baby_g0it39.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Nepal-Mother and Baby_g1i39.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Nepal-Mother and Baby_g1it39.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Nepal-Mother and Child_g0i40.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Nepal-Mother and Child_g0it40.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Nepal-Mother and Child_g1i40.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Nepal-Mother and Child_g1it40.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Nepal-Six Girls_g0i41.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Nepal-Six Girls_g0it41.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Nepal-Six Girls_g1i41.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Nepal-Six Girls_g1it41.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Nepal-Two Boys_g0i42.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Nepal-Two Boys_g0it42.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Nepal-Two Boys_g1i42.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Nepal-Two Boys_g1it42.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Nepal-Two Monks_g0i43.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Nepal-Two Monks_g0it43.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Nepal-Two Monks_g1i43.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Nepal-Two Monks_g1it43.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Papua New Guinea-Sing Sing Performer_g0i45.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Papua New Guinea-Sing Sing Performer_g0it45.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Papua New Guinea-Sing Sing Performer_g1i45.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Papua New Guinea-Sing Sing Performer_g1it45.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Papua New Guinea-Three Sing Sing Performers_g0i46.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Papua New Guinea-Three Sing Sing Performers_g0it46.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Papua New Guinea-Three Sing Sing Performers_g1i46.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Papua New Guinea-Three Sing Sing Performers_g1it46.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Peru-Girl and Baby_g0i47.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Peru-Girl and Baby_g0it47.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Peru-Girl and Baby_g1i47.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Peru-Girl and Baby_g1it47.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Peru-School Window_g0i44.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Peru-School Window_g0it44.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Peru-School Window_g1i44.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Peru-School Window_g1it44.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Senegal-Baby Carriage_g0i48.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Senegal-Baby Carriage_g0it48.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Senegal-Baby Carriage_g1i48.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Senegal-Baby Carriage_g1it48.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\The Gambia-Dora_g0i49.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\The Gambia-Dora_g0it49.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\The Gambia-Dora_g1i49.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\The Gambia-Dora_g1it49.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\USA-Black Lives Matter_g0i51.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\USA-Black Lives Matter_g0it51.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\USA-Black Lives Matter_g1i51.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\USA-Black Lives Matter_g1it51.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\USA-End Racism_g0i53.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\USA-End Racism_g0it53.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\USA-End Racism_g1i53.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\USA-End Racism_g1it53.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\USA-Girl in Red_g0i52.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\USA-Girl in Red_g0it52.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\USA-Girl in Red_g1i52.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\USA-Girl in Red_g1it52.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\USA-Reclaim Kindness_g0i54.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\USA-Reclaim Kindness_g0it54.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\USA-Reclaim Kindness_g1i54.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\USA-Reclaim Kindness_g1it54.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\USA-Tiger Girl_g0i58.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\USA-Tiger Girl_g0it58.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\USA-Tiger Girl_g1i58.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\USA-Tiger Girl_g1it58.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Uzbekistan-Jewish Girls_g0i55.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Uzbekistan-Jewish Girls_g0it55.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Uzbekistan-Jewish Girls_g1i55.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Uzbekistan-Jewish Girls_g1it55.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Vietnam-Boat Boy_g0i56.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Vietnam-Boat Boy_g0it56.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Vietnam-Boat Boy_g1i56.jpg' returned non-zero exit status 128.
+Command 'git add public_html\Children\images\children\Vietnam-Boat Boy_g1it56.jpg' returned non-zero exit status 128.
+Command 'git add public_html\cuba_cuba\Amor de Loca Juventud.mp3' returned non-zero exit status 128.
+Command 'git add "error.txt")' returned non-zero exit status 128.
+Command 'git add "public_html\2010reunion\index.html")' returned non-zero exit status 128.
+Command 'git add "public_html\2012P-rade\index.html")' returned non-zero exit status 128.
+Command 'git add "public_html\2017holidayletter.pdf")' returned non-zero exit status 128.
+Command 'git add "public_html\3index.html")' returned non-zero exit status 128.
+Command 'git add "public_html\3_photos.html")' returned non-zero exit status 128.
+Command 'git add "public_html\50th\data\image_1.jpg")' returned non-zero exit status 128.
+Command 'git add "public_html\50th\data\image_10.jpg")' returned non-zero exit status 128.
+Command 'git add "public_html\50th\data\image_11.jpg")' returned non-zero exit status 128.
+Command 'git add "public_html\50th\data\image_12.jpg")' returned non-zero exit status 128.
+Command 'git add "error.txt")' returned non-zero exit status 128.
+Command 'git add "public_html\1977\index.html")' returned non-zero exit status 128.
+Command 'git add "public_html\1977\part1.html")' returned non-zero exit status 128.
+Command 'git add "public_html\1977\part2.html")' returned non-zero exit status 128.
+Command 'git add "public_html\1977\part3.html")' returned non-zero exit status 128.
+Command 'git add "public_html\2010reunion\index.html")' returned non-zero exit status 128.
+Command 'git add "public_html\2012P-rade\index.html")' returned non-zero exit status 128.
+Command 'git add "public_html\2012reunion\index.html")' returned non-zero exit status 128.
+Command 'git add "public_html\2012reunion\index1.html")' returned non-zero exit status 128.
+Command 'git add "public_html\2012reunion\index2.html")' returned non-zero exit status 128.
