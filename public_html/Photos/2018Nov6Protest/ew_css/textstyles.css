@@ -1,0 +1,18 @@
+.Style1{font-family: 'Helvetica',sans-serif;
+font-size: 36px; 
+margin:0;
+color: #FEFEFE;
+background-color: #000000; 
+word-wrap: break-word;}
+.Style2{font-family: 'Helvetica',sans-serif;
+font-size: 48px; 
+margin:0;
+color: #FEFEFE;
+background-color: #000000; 
+word-wrap: break-word;}
+body{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing: grayscale}
+a.outerlink{text-decoration:none}
+.animhidden{opacity: 0}
+.animvisible{opacity: 1}
+.animhidden{opacity: 0}
+.animvisible{opacity: 1}
