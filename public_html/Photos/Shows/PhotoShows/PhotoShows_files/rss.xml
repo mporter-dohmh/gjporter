@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Photo Shows</title>
+    <link>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/PhotoShows.html</link>
+    <description>Photo Shows</description>
+    <item>
+      <title>SingSing</title>
+      <link>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/SingSing.html</link>
+      <guid isPermaLink="false">a4b256e2-74bb-485b-aad8-36c01ccfc763</guid>
+    </item>
+    <item>
+      <title>Cambodia</title>
+      <link>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/Cambodia.html</link>
+      <guid isPermaLink="false">23247864-b6bb-4da8-8aff-4af7fdd9b05f</guid>
+    </item>
+    <item>
+      <title>Parks</title>
+      <link>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/Parks.html</link>
+      <guid isPermaLink="false">9c87c29f-b84a-4b1a-850b-f9c04966883e</guid>
+    </item>
+    <item>
+      <title>2011UnivClub</title>
+      <link>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/2011UnivClub.html</link>
+      <guid isPermaLink="false">e5d58dcf-5716-422d-9ad5-0f898ae823a1</guid>
+    </item>
+    <item>
+      <title>2012UnivClub</title>
+      <link>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/2012UnivClub.html</link>
+      <guid isPermaLink="false">ebd9ba6d-cc94-417c-8208-10124b6941fe</guid>
+    </item>
+    <item>
+      <title>2013UnivClub</title>
+      <link>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/2013UnivClub.html</link>
+      <guid isPermaLink="false">5ec1c5d6-fdbe-4308-a3f4-d120ee758a2b</guid>
+    </item>
+    <item>
+      <title>2014UnivClub</title>
+      <link>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/2014UnivClub.html</link>
+      <guid isPermaLink="false">31aa9a2c-d525-4b90-9ed2-d094cc0233d6</guid>
+    </item>
+    <item>
+      <title>PCA</title>
+      <link>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/PCA.html</link>
+      <guid isPermaLink="false">d18870f0-fec1-4d1c-a85b-34ba60828a7b</guid>
+    </item>
+    <item>
+      <title>2014Reunions </title>
+      <link>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/2014Reunions.html</link>
+      <guid isPermaLink="false">2f9ce44d-a9ba-4958-8dca-d4c057d24f6c</guid>
+    </item>
+    <item>
+      <title>camry</title>
+      <link>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/camry.html</link>
+      <guid isPermaLink="false">ada9e1eb-983e-4aad-9820-829f02b475f3</guid>
+    </item>
+    <item>
+      <title>Atlantic City - July 2014</title>
+      <link>http://home.comcast.net/%7Egjporter/Shows/PhotoShows/Pages/Atlantic_City_-_July_2014.html</link>
+      <guid isPermaLink="false">8486a5e2-4984-4134-ac5c-8968c3aecead</guid>
+    </item>
+  </channel>
+</rss>
