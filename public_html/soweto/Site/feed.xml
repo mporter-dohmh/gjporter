@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:8577EA6C-BB96-456F-B332-39C9DC838D14</id>
+ <title>Page list Atom feed</title>
+ <updated>2010-09-03T12:58:05-04:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:57DCE3CB-3B97-4437-8899-B096CCFA4956</id>
+  <title>Photos</title>
+  <title xmlns="urn:iweb:">Photos</title>
+  <in-navbar xmlns="urn:iweb:">57DCE3CB-3B97-4437-8899-B096CCFA4956</in-navbar>
+  <link rel="alternate" href="Photos.html"/>
+  <updated>2010-09-03T12:58:05.001-04:00</updated>
+  <content>Photos</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:13023C36-8C3F-4F2D-B3C7-050018AB37ED</id>
+  <title>Grand Tetons </title>
+  <title xmlns="urn:iweb:">Grand Tetons </title>
+  <in-navbar xmlns="urn:iweb:">13023C36-8C3F-4F2D-B3C7-050018AB37ED</in-navbar>
+  <link rel="alternate" href="Grand_Tetons.html"/>
+  <updated>2010-09-03T12:58:05.002-04:00</updated>
+  <content>Grand Tetons </content>
+ </entry>
+</feed>
