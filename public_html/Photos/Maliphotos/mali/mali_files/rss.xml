@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Mali</title>
+    <link>http://home.comcast.net/%7Egjporter/Mali/mali/mali.html</link>
+    <description>Mali</description>
+    <item>
+      <title>Djenne</title>
+      <link>http://home.comcast.net/%7Egjporter/Mali/mali/Pages/Djenne.html</link>
+      <guid isPermaLink="false">e54abf44-cb92-41da-b5eb-23eebd226b98</guid>
+    </item>
+    <item>
+      <title>Timbuktu</title>
+      <link>http://home.comcast.net/%7Egjporter/Mali/mali/Pages/Timbuktu.html</link>
+      <guid isPermaLink="false">b7b9630c-2d1a-4392-abb5-bb8537da287f</guid>
+    </item>
+    <item>
+      <title>Dogon</title>
+      <link>http://home.comcast.net/%7Egjporter/Mali/mali/Pages/Dogon.html</link>
+      <guid isPermaLink="false">ec21e3e7-4569-482b-be29-7555d910c685</guid>
+    </item>
+  </channel>
+</rss>
