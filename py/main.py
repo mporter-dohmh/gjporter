@@ -1,19 +1,17 @@
 import git
 import os
 
-def movetoroot(path):
-    git.mvtoroot(path)
-    git.add(path)
-    git.commit(f"moved folder {path}")
-    git.push()
 
 
 def main():
-    root = r"C:\Users\mporter1\Documents\gjporter"
-    publichtml = os.path.join(root, "public_html")
-    os.chdir(root)
+    repo = git.Repo(r"C:\Users\mporter1\Documents\gjporter")
+    publichtml = os.path.join(repo.path, "public_html")
     for d in os.listdir(publichtml):
         fullpath = os.path.join(publichtml, d)
         if not d.startswith(".") and os.path.isdir(fullpath):
-            print ("moving {os.path.join('public_html',d)}")
-            movetoroot(os.path.join("public_html",d))
+            relpath = os.path.join('public_html',d)
+            print (f"moving {relpath}")
+            repo.mvtoroot(path)
+            repo.add(path)
+            repo.commit(f"moved folder {path}")
+            repo.push()
