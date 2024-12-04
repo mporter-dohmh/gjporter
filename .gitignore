@@ -38,3 +38,6 @@ ehthumbs.db
 Thumbs.db
 
 # Package file
+_backup-untracked/
+_large-files/
+public_html/
