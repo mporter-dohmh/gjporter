@@ -1,0 +1,66 @@
+# PyCharm specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# directories that shouldn't be added to repo
+_backup-untracked/
+_large-files/
+public_html/
+
+# large files > 100mb
+dnc/PoliticalFest.mp4
+output.zip
+march10ppr.mp4
+JRP_retirement/part2.wmv
+dnc/cityhall.mp4
+dnc/sanders.mp4
+children.mp4
+JRP_retirement/part1.wmv
+baldwin.mp4
+philafeb2019.mp4
+Sanders_march_dnc.mp4
+BLM_Havertown.mp4
+aug16.mp4
+JRP_retirement/part1.mp4
+AnnaNenner.wav
+3_24_video.mp4
+dnc/wfc.mp4
+cityhallprotestsdnc.mp4
+Signs/Signs.mp4
+March24_video.mp4
+
