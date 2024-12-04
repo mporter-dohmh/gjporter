@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>2003 Albums</title>
+    <link>http://home.comcast.net/%7Egjporter/2003/2003/2003_Albums/2003_Albums.html</link>
+    <description>2003 Albums</description>
+    <item>
+      <title>February Anti War Rally</title>
+      <link>http://home.comcast.net/%7Egjporter/2003/2003/2003_Albums/Pages/February_Anti_War_Rally.html</link>
+      <guid isPermaLink="false">00d8ffa8-f1d6-4048-b0b6-6b898b2c139b</guid>
+    </item>
+    <item>
+      <title>March Anti War Rally</title>
+      <link>http://home.comcast.net/%7Egjporter/2003/2003/2003_Albums/Pages/March_Anti_War_Rally.html</link>
+      <guid isPermaLink="false">2cc5cb6d-18f5-4a5a-b1d0-1befbf810a3d</guid>
+    </item>
+    <item>
+      <title>Snow</title>
+      <link>http://home.comcast.net/%7Egjporter/2003/2003/2003_Albums/Pages/Snow.html</link>
+      <guid isPermaLink="false">f18b404e-14e5-4154-ba47-e350ecb1aa47</guid>
+    </item>
+    <item>
+      <title>Princeton58's 45th Reunion</title>
+      <link>http://home.comcast.net/%7Egjporter/2003/2003/2003_Albums/Pages/Princeton58s_45th_Reunion.html</link>
+      <guid isPermaLink="false">6ad96ebb-7012-46a8-bcf2-d915b871712b</guid>
+    </item>
+  </channel>
+</rss>
