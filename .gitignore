@@ -37,7 +37,30 @@ env/
 ehthumbs.db
 Thumbs.db
 
-# Package file
+# directories that shouldn't be added to repo
 _backup-untracked/
 _large-files/
 public_html/
+
+# large files > 100mb
+dnc/PoliticalFest.mp4
+output.zip
+march10ppr.mp4
+JRP_retirement/part2.wmv
+dnc/cityhall.mp4
+dnc/sanders.mp4
+children.mp4
+JRP_retirement/part1.wmv
+baldwin.mp4
+philafeb2019.mp4
+Sanders_march_dnc.mp4
+BLM_Havertown.mp4
+aug16.mp4
+JRP_retirement/part1.mp4
+AnnaNenner.wav
+3_24_video.mp4
+dnc/wfc.mp4
+cityhallprotestsdnc.mp4
+Signs/Signs.mp4
+March24_video.mp4
+
